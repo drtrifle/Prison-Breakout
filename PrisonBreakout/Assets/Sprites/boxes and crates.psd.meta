@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 1287470450bdbb3498caf494aa704927
+timeCreated: 1467802187
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crate 1
+    21300002: crate 2
+    21300004: crate 3
+    21300006: crate 4
+    21300008: crate 5
+    21300010: crate 6
+    21300012: box 1
+    21300014: box 2
+    21300016: box 3
+    21300018: box 4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 130, z: 536, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crate 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: crate 2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 125
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: crate 3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 125
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: crate 4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 125
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: crate 5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 125
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: crate 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: box 1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: box 2
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: box 3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    - name: box 4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 62.5}
+        - {x: -67, y: -62.5}
+        - {x: 67, y: -62.5}
+        - {x: 67, y: 62.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
