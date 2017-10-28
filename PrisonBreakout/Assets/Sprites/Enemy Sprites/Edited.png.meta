@@ -1,0 +1,1450 @@
+fileFormatVersion: 2
+guid: ea84a19e0385b91428e19826aa301047
+timeCreated: 1464070571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Edited_000
+    21300002: Edited_100
+    21300004: Edited_200
+    21300006: Edited_0789
+    21300008: Edited_400
+    21300010: Edited_500
+    21300012: Edited_06000
+    21300014: Edited_700
+    21300016: Edited_800
+    21300018: A0
+    21300020: A1
+    21300022: A2
+    21300024: Edited_300
+    21300026: Edited_13
+    21300028: Edited_14
+    21300030: Edited_15
+    21300032: Edited_16
+    21300034: Edited_17
+    21300036: Edited_18
+    21300038: Edited_19
+    21300040: Edited_20
+    21300042: A3
+    21300044: A4
+    21300046: A5
+    21300048: Edited_24
+    21300050: Edited_25
+    21300052: Edited_26
+    21300054: Edited_27
+    21300056: Edited_28
+    21300058: Edited_29
+    21300060: Edited_30
+    21300062: Edited_31
+    21300064: Edited_32
+    21300066: A6
+    21300068: A7
+    21300070: A8
+    21300072: Edited_36
+    21300074: Edited_37
+    21300076: Edited_38
+    21300078: Edited_39
+    21300080: Edited_40
+    21300082: Edited_41
+    21300084: Edited_42
+    21300086: Edited_43
+    21300088: Edited_44
+    21300090: A9
+    21300092: A10
+    21300094: A11
+    21300096: Edited_48
+    21300098: Edited_49
+    21300100: Edited_50
+    21300102: Edited_51
+    21300104: Edited_52
+    21300106: Edited_53
+    21300108: Edited_54
+    21300110: Edited_55
+    21300112: Edited_56
+    21300114: Edited_57
+    21300116: Edited_58
+    21300118: Edited_59
+    21300120: Edited_60
+    21300122: Edited_61
+    21300124: Edited_62
+    21300126: Edited_63
+    21300128: Edited_64
+    21300130: Edited_65
+    21300132: Edited_66
+    21300134: Edited_67
+    21300136: Edited_68
+    21300138: Edited_69
+    21300140: Edited_70
+    21300142: Edited_71
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Edited_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+    - name: Edited_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 8}
+        - {x: -15, y: -12}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: Edited_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 9}
+        - {x: 12, y: 16}
+    - name: Edited_0789
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+    - name: Edited_400
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 8}
+        - {x: -15, y: -12}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 16}
+    - name: Edited_500
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 9}
+        - {x: 12, y: 16}
+    - name: Edited_06000
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -14, y: 7}
+        - {x: -14, y: -14}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 10}
+        - {x: 13, y: 16}
+    - name: Edited_700
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -15, y: 5}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 11}
+        - {x: 15, y: 14}
+        - {x: 12, y: 16}
+    - name: Edited_800
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -14, y: 16}
+        - {x: -14, y: -12}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -15}
+        - {x: 15, y: -12}
+        - {x: 15, y: -4}
+        - {x: 14, y: 13}
+    - name: A0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 15}
+        - {x: 11, y: 16}
+    - name: A1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -12, y: 16}
+        - {x: -15, y: 5}
+        - {x: -15, y: -11}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 2}
+        - {x: 14, y: 14}
+    - name: A2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -13, y: 13}
+        - {x: -13, y: -8}
+        - {x: -8, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 8}
+        - {x: 14, y: 16}
+    - name: Edited_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -2}
+        - {x: 12, y: 13}
+        - {x: 8, y: 16}
+    - name: Edited_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -6}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -2}
+        - {x: 12, y: 16}
+    - name: Edited_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: -15}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -5}
+        - {x: 12, y: 14}
+    - name: Edited_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -12}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -2}
+        - {x: 12, y: 13}
+        - {x: 8, y: 16}
+    - name: Edited_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -6}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -2}
+        - {x: 12, y: 16}
+    - name: Edited_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: -15}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -5}
+        - {x: 12, y: 14}
+    - name: Edited_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -2}
+        - {x: -11, y: -11}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 12, y: -9}
+        - {x: 12, y: 16}
+    - name: Edited_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -2}
+        - {x: -9, y: -9}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -2}
+        - {x: 12, y: 16}
+    - name: Edited_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: 2}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+    - name: A3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -7}
+        - {x: -12, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: 2}
+        - {x: 11, y: 12}
+        - {x: 9, y: 16}
+    - name: A4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -2}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 16}
+    - name: A5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -7}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 13}
+        - {x: 9, y: 16}
+    - name: Edited_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -4}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 16}
+    - name: Edited_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -3}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 16}
+    - name: Edited_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -3}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+    - name: Edited_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 0}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 11, y: -10}
+        - {x: 12, y: 0}
+        - {x: 12, y: 16}
+    - name: Edited_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -3}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 16}
+    - name: Edited_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -3}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 15}
+        - {x: 11, y: 16}
+    - name: Edited_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 1}
+        - {x: -9, y: -14}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 16}
+    - name: Edited_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -11, y: 14}
+        - {x: -12, y: 11}
+        - {x: -12, y: -1}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 16}
+    - name: Edited_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 12}
+        - {x: -12, y: 0}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 16}
+    - name: A6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 12}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 16}
+    - name: A7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -10}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -4}
+        - {x: 12, y: 16}
+    - name: A8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 12}
+        - {x: -12, y: 4}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 9, y: -15}
+        - {x: 12, y: -1}
+        - {x: 12, y: 16}
+    - name: Edited_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -6, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: Edited_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 1}
+        - {x: 13, y: 13}
+    - name: Edited_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 16}
+    - name: Edited_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -6, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: Edited_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 1}
+        - {x: 13, y: 13}
+    - name: Edited_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -14}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 16}
+    - name: Edited_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -10}
+        - {x: -10, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 16}
+    - name: Edited_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 9}
+        - {x: -13, y: -10}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 11}
+        - {x: 13, y: 16}
+    - name: Edited_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -11}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 14}
+        - {x: 11, y: 16}
+    - name: A9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 11, y: -14}
+        - {x: 12, y: -8}
+        - {x: 12, y: 16}
+    - name: A10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: -10}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 13}
+    - name: A11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -15}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 16}
+    - name: Edited_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -14, y: 4}
+        - {x: -14, y: -14}
+        - {x: -12, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 13}
+        - {x: 13, y: 16}
+    - name: Edited_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -14, y: 16}
+        - {x: -15, y: 4}
+        - {x: -15, y: -12}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 1}
+        - {x: 13, y: 13}
+    - name: Edited_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -13}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 7}
+        - {x: 14, y: 13}
+        - {x: 11, y: 16}
+    - name: Edited_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -14, y: 1}
+        - {x: -14, y: -12}
+        - {x: -10, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: 16}
+    - name: Edited_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -11, y: 16}
+        - {x: -13, y: 13}
+        - {x: -15, y: -1}
+        - {x: -15, y: -10}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 3}
+        - {x: 15, y: 14}
+    - name: Edited_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 2}
+        - {x: -14, y: -10}
+        - {x: -8, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 14, y: 16}
+    - name: Edited_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 14}
+        - {x: 10, y: 16}
+    - name: Edited_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: -1}
+        - {x: -11, y: -9}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 14}
+    - name: Edited_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -2}
+        - {x: -11, y: -10}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 16}
+    - name: Edited_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 14}
+        - {x: 10, y: 16}
+    - name: Edited_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -2}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -5}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+    - name: Edited_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 11}
+        - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -3}
+        - {x: -10, y: -9}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 10, y: -12}
+        - {x: 12, y: 5}
+    - name: Edited_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 14}
+        - {x: -12, y: -5}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -9}
+        - {x: 12, y: 3}
+        - {x: 12, y: 16}
+    - name: Edited_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -4}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 11, y: -9}
+        - {x: 12, y: 3}
+        - {x: 12, y: 16}
+    - name: Edited_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -8}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -7}
+        - {x: 12, y: 16}
+    - name: Edited_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 14}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 16}
+    - name: Edited_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: 5}
+        - {x: -10, y: -10}
+        - {x: -5, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -3}
+        - {x: 12, y: 16}
+    - name: Edited_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -15}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -10}
+        - {x: 12, y: 1}
+        - {x: 12, y: 16}
+    - name: Edited_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -8}
+        - {x: -7, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 16}
+    - name: Edited_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -11, y: 16}
+        - {x: -12, y: 13}
+        - {x: -13, y: 1}
+        - {x: -13, y: -9}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 2}
+        - {x: 13, y: 13}
+    - name: Edited_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 16}
+    - name: Edited_69
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -12, y: 16}
+        - {x: -12, y: -13}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 12}
+    - name: Edited_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 2}
+        - {x: -13, y: -10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 14}
+        - {x: 12, y: 16}
+    - name: Edited_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
